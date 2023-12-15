@@ -1,0 +1,2 @@
+<?php $databaseHost = 'fdb27.biz.nf'; $databaseName = '3833032_asq'; $databaseUsername = '3833032_asq'; $databasePassword = 'ashikjoju8055'; 
+$mysqli = mysqli_connect($databaseHost, $databaseUsername, $databasePassword, $databaseName); ?>
